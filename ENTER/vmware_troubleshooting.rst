@@ -1,5 +1,3 @@
-.. _vmware_troubleshooting:
-
 **********************************
 Troubleshooting Ansible for VMware
 **********************************
