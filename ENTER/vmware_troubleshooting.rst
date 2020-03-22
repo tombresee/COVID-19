@@ -1,8 +1,5 @@
 
 
-Potential Workaround
---------------------
-
 How to fix...
 
 This section lists things that can go wrong and possible ways to fix them.
