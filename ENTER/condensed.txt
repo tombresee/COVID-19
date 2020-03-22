@@ -1,4 +1,9 @@
 
+--- rough idea of condensed version of the json sample ---
+
+
+
+
     "paper_id": "a137eb51461b4a4ed3980aa5b9cb2f2c1cf0292a",
 
 
@@ -171,25 +176,8 @@
             "section": "Mouse validation experiments"
         }
     ],
-    "bib_entries": {
-        "BIBREF0": {
-            "ref_id": "b0",
-            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
-            "authors": [
-                {
-                    "first": "A",
-                    "middle": [
-                        "M"
-                    ],
-                    "last": "Zaki",
-                    "suffix": ""
-                },
-                {
-                    "first": "S",
-                    "middle": [],
-                    "last": "Van Boheemen",
-                    "suffix": ""
-          
+      
+
 
 
 completely kill bib ref
