@@ -1,3 +1,7 @@
+
+--- printSchema() pyspark output ---
+
+
 root
  |-- abstract: array (nullable = true)
  |    |-- element: struct (containsNull = true)
